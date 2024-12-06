@@ -20,7 +20,7 @@ module.exports = {
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || ".",
     FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
-    AUTO_REACT: process.env.AUTO_REACT || "true",
+    AUTO_REACT: process.env.AUTO_REACT || "false",
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
     BOT_NAME: process.env.BOT_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
